@@ -1,6 +1,7 @@
 {
     "@_LOGIN": {},
     "loginBtn": "Bejelentkezés E-Kréta fiókkal",
+    "privacyLabel": "Adatvédelmi tájékoztató",
     "title1": "A romló tendenciádat tízféle képpen láthatod",
     "subtitle1": "Annyi statisztikát láthatsz, hogy a 8 általánosos matek nem lesz elég a kisilabizálására.",
     "title2": "Kudarcaid most már grafikonon is követhetőek",
@@ -8,5 +9,30 @@
     "title3": "Számokkal bizonyítjuk, mennyire rosszul teljesítesz",
     "subtitle3": "Még a szépített adatok is siralmas képet festenek rólad.",
     "title4": "Statisztikák, amelyek igazolják mindenki gyanúját",
-    "subtitle4": "Most már diagramokon is láthatod, amit mindenki sejtett rólad."
+    "subtitle4": "Most már diagramokon is láthatod, amit mindenki sejtett rólad.",
+    "@_HOME": {},
+    "home": "Kezdőlap",
+    "grades": "Jegyek",
+    "timetable": "Órarend",
+    "other": "Több",
+    "@_WEAR": {},
+    "breakTxt": "Szünet",
+    "timeLeft": "Még {mins} perc",
+    "@timeLeft": {
+        "placeholders": {
+            "mins": {
+                "type": "num"
+            }
+        }
+    },
+    "noClasses": "Nincs ma iskola, pihend ki magad!",
+    "noMoreClasses": "Nincs több órád ma",
+    "firstIn": "Első órád: {t}",
+    "@firstIn": {
+        "placeholders": {
+            "t": {
+                "type": "String"
+            }
+        }
+    }
 }
