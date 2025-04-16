@@ -1,6 +1,7 @@
 {
     "@_LOGIN": {},
     "loginBtn": "Login with E-Kréta",
+    "privacyLabel": "Adatvédelmi tájékoztató",
     "title1": "Your declining trend can be seen in ten different ways",
     "subtitle1": "You'll see so many statistics that 8th-grade math won't be enough to figure them out.",
     "title2": "Your setbacks can now be followed on a graph as well",
@@ -8,5 +9,30 @@
     "title3": "We prove with numbers just how badly you're doing",
     "subtitle3": "Even the sugar-coated data still paints a bleak picture.",
     "title4": "Statistics that bear out everyone's suspicions",
-    "subtitle4": "Now the diagrams also show what everyone suspected about you."
+    "subtitle4": "Now the diagrams also show what everyone suspected about you.",
+    "@_HOME": {},
+    "home": "Kezdőlap",
+    "grades": "Jegyek",
+    "timetable": "Órarend",
+    "other": "Több",
+    "@_WEAR": {},
+    "breakTxt": "Szünet",
+    "timeLeft": "Még {mins} perc",
+    "@timeLeft": {
+        "placeholders": {
+            "mins": {
+                "type": "num"
+            }
+        }
+    },
+    "noClasses": "Nincs ma iskola, pihend ki magad!",
+    "noMoreClasses": "Nincs több órád ma",
+    "firstIn": "Első órád: {t}",
+    "@firstIn": {
+        "placeholders": {
+            "t": {
+                "type": "String"
+            }
+        }
+    }
 }
