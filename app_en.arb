@@ -17,7 +17,7 @@
     "other": "More",
     "@_WEAR": {},
     "breakTxt": "Break",
-    "timeLeft": "{mins} more",
+    "timeLeft": "{mins, plural, =1{1 min left} other{{mins} mins left}}",
     "@timeLeft": {
         "placeholders": {
             "mins": {
@@ -25,9 +25,9 @@
             }
         }
     },
-    "noClasses": "Nincs ma iskola, pihend ki magad!",
-    "noMoreClasses": "Nincs több órád ma",
-    "firstIn": "Első órád: {t}",
+    "noClasses": "School's out today, take it easy!",
+    "noMoreClasses": "No more classes for you today",
+    "firstIn": "First class in: {t}",
     "@firstIn": {
         "placeholders": {
             "t": {
