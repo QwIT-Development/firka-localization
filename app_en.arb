@@ -11,13 +11,13 @@
     "title4": "Statistics that bear out everyone's suspicions",
     "subtitle4": "Now the diagrams also show what everyone suspected about you.",
     "@_HOME": {},
-    "home": "Kezdőlap",
-    "grades": "Jegyek",
-    "timetable": "Órarend",
-    "other": "Több",
+    "home": "Home",
+    "grades": "Grades",
+    "timetable": "Timetable",
+    "other": "More",
     "@_WEAR": {},
-    "breakTxt": "Szünet",
-    "timeLeft": "Még {mins} perc",
+    "breakTxt": "Break",
+    "timeLeft": "{mins} more",
     "@timeLeft": {
         "placeholders": {
             "mins": {
