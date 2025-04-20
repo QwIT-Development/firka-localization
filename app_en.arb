@@ -1,12 +1,46 @@
 {
     "@_LOGIN": {},
-    "loginBtn": "Bejelentkezés E-Kréta fiókkal",
-    "title1": "A romló tendenciádat tízféle képpen láthatod",
-    "subtitle1": "Annyi statisztikát láthatsz, hogy a 8 általánosos matek nem lesz elég a kisilabizálására.",
-    "title2": "Kudarcaid most már grafikonon is követhetőek",
-    "subtitle2": "Nézd ahogy a görbék lefelé mutatnak, akár az életed kilátásai.",
-    "title3": "Számokkal bizonyítjuk, mennyire rosszul teljesítesz",
-    "subtitle3": "Még a szépített adatok is siralmas képet festenek rólad.",
-    "title4": "Statisztikák, amelyek igazolják mindenki gyanúját",
-    "subtitle4": "Most már diagramokon is láthatod, amit mindenki sejtett rólad."
+    "loginBtn": "Login with E-Kréta",
+    "privacyLabel": "Privacy policy",
+    "title1": "Your declining trend can be seen in ten different ways",
+    "subtitle1": "You'll see so many statistics that 8th-grade math won't be enough to figure them out.",
+    "title2": "Your setbacks can now be followed on a graph as well",
+    "subtitle2": "Watch the curves pointing downwards, like the outlook for your life.",
+    "title3": "We prove with numbers just how badly you're doing",
+    "subtitle3": "Even the sugar-coated data still paints a bleak picture.",
+    "title4": "Statistics that bear out everyone's suspicions",
+    "subtitle4": "Now the diagrams also show what everyone suspected about you.",
+    "@_HOME": {},
+    "home": "Home",
+    "grades": "Grades",
+    "timetable": "Timetable",
+    "other": "More",
+    "@_WEAR": {},
+    "breakTxt": "Break",
+    "timeLeft": "{mins, plural, =1{1 min left} other{{mins} mins left}}",
+    "@timeLeft": {
+        "placeholders": {
+            "mins": {
+                "type": "num"
+            }
+        }
+    },
+    "noClasses": "School's out today, take it easy!",
+    "noMoreClasses": "No more classes for you today",
+    "firstIn": "First class in: {t}",
+    "@firstIn": {
+        "placeholders": {
+            "t": {
+                "type": "String"
+            }
+        }
+    },
+    "wearTitle": "{n}. óra",
+    "@wearTitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
+    }
 }
