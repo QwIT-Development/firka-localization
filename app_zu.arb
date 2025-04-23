@@ -17,7 +17,7 @@
     "other": "Moar",
     "@_WEAR": {},
     "breakTxt": "Restin",
-    "timeLeft": "Még {mins} perc",
+    "timeLeft": "Still gotz {mins} minitz",
     "@timeLeft": {
         "placeholders": {
             "mins": {
@@ -27,7 +27,7 @@
     },
     "noClasses": "No skool todai! Iz nap tiem nao!",
     "noMoreClasses": "Ur klassiz R dun todai",
-    "firstIn": "Első órád: {t}",
+    "firstIn": "Furzt ur clas: {t}",
     "@firstIn": {
         "placeholders": {
             "t": {
@@ -35,7 +35,7 @@
             }
         }
     },
-    "wearTitle": "{n}. óra",
+    "wearTitle": "Lessun {n}",
     "@wearTitle": {
         "placeholders": {
             "n": {
