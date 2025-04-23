@@ -35,7 +35,7 @@
             }
         }
     },
-    "wearTitle": "{n}. óra",
+    "wearTitle": "{n}. class",
     "@wearTitle": {
         "placeholders": {
             "n": {
