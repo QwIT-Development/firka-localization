@@ -8,16 +8,16 @@
     "subtitle2": "Achte auf die Kurven, die nach unten zeigen, wie die Aussichten für dein Leben.",
     "title3": "Wir beweisen mit Zahlen, wie schlecht du bist",
     "subtitle3": "Selbst die beschönigten Daten zeichnen ein düsteres Bild über dich.",
-    "title4": "",
-    "subtitle4": "Most már diagramokon is láthatod, amit mindenki sejtett rólad.",
+    "title4": "Statistiken, die alle Vermutungen bestätigen",
+    "subtitle4": "Nun zeigen die Diagramme auch, was alle über dich vermutet haben.",
     "@_HOME": {},
     "home": "Startseite",
     "grades": "Noten",
     "timetable": "Stundenplan",
     "other": "Andere",
     "@_WEAR": {},
-    "breakTxt": "Szünet",
-    "timeLeft": "Még {mins} perc",
+    "breakTxt": "Pause",
+    "timeLeft": "{mins} Minuten übrig",
     "@timeLeft": {
         "placeholders": {
             "mins": {
@@ -25,9 +25,9 @@
             }
         }
     },
-    "noClasses": "Nincs ma iskola, pihend ki magad!",
-    "noMoreClasses": "Nincs több órád ma",
-    "firstIn": "Első órád: {t}",
+    "noClasses": "Heute ist keine Schule, ruh dich aus!",
+    "noMoreClasses": "Du hast heute keinen Unterricht mehr",
+    "firstIn": "Deine erste Stunde: {t}",
     "@firstIn": {
         "placeholders": {
             "t": {
@@ -35,7 +35,7 @@
             }
         }
     },
-    "wearTitle": "{n}. óra",
+    "wearTitle": "{n}. Stunde",
     "@wearTitle": {
         "placeholders": {
             "n": {
