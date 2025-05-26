@@ -19,6 +19,7 @@
     "grades": "Noten",
     "timetable": "Stundenplan",
     "other": "Andere",
+    "refreshing": "Adatok frissítése...",
     "@_HOME_GRADES": {},
     "subjects": "Tantárgyak",
     "your_subjects": "Tantárgyaid",
