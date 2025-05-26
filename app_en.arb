@@ -19,6 +19,7 @@
     "grades": "Grades",
     "timetable": "Timetable",
     "other": "Other",
+    "refreshing": "Adatok frissítése...",
     "@_HOME_GRADES": {},
     "subjects": "Tantárgyak",
     "your_subjects": "Tantárgyaid",
