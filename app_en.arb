@@ -20,6 +20,7 @@
     "timetable": "Timetable",
     "other": "Other",
     "refreshing": "Fetching data...",
+    "api_error": "Kréta API hiba",
     "@_HOME_GRADES": {},
     "subjects": "Subjects",
     "your_subjects": "Your subjects",
