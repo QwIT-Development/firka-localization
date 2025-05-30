@@ -20,6 +20,7 @@
     "timetable": "Stundenplan",
     "other": "Andere",
     "refreshing": "Adatok frissítése...",
+    "api_error": "Kréta API hiba",
     "@_HOME_GRADES": {},
     "subjects": "Tantárgyak",
     "your_subjects": "Tantárgyaid",
