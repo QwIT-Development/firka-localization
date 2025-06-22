@@ -1,12 +1,59 @@
 {
     "@_LOGIN": {},
-    "loginBtn": "Bejelentkezés E-Kréta fiókkal",
-    "title1": "A romló tendenciádat tízféle képpen láthatod",
-    "subtitle1": "Annyi statisztikát láthatsz, hogy a 8 általánosos matek nem lesz elég a kisilabizálására.",
-    "title2": "Kudarcaid most már grafikonon is követhetőek",
-    "subtitle2": "Nézd ahogy a görbék lefelé mutatnak, akár az életed kilátásai.",
-    "title3": "Számokkal bizonyítjuk, mennyire rosszul teljesítesz",
-    "subtitle3": "Még a szépített adatok is siralmas képet festenek rólad.",
-    "title4": "Statisztikák, amelyek igazolják mindenki gyanúját",
-    "subtitle4": "Most már diagramokon is láthatod, amit mindenki sejtett rólad."
+    "loginBtn": "Login mit E-Kréta",
+    "privacyLabel": "Datenschutzerklärung",
+    "title1": "Wirst du schlechter, kannst du den Graphen in zehn verschiedenen Arten ansehen",
+    "subtitle1": "Du siehst so viele Statistiken, sodass Mathematik aus der 8. Klasse nicht einmal reicht, um sie zu verstehen.",
+    "title2": "Deine Rückschläge kannst du auch in einem Graphen betrachten",
+    "subtitle2": "Achte auf die Kurven, die nach unten zeigen, wie die Aussichten für dein Leben.",
+    "title3": "Wir beweisen mit Zahlen, wie schlecht du bist",
+    "subtitle3": "Selbst die beschönigten Daten zeichnen ein düsteres Bild über dich.",
+    "title4": "Statistiken, die alle Vermutungen bestätigen",
+    "subtitle4": "Nun zeigen die Diagramme auch, was alle über dich vermutet haben.",
+    "@_DATES": {},
+    "yesterday": "Gestern",
+    "today": "Heute",
+    "tomorrow": "Morgen",
+    "@_HOME": {},
+    "home": "Startseite",
+    "grades": "Noten",
+    "timetable": "Stundenplan",
+    "other": "Andere",
+    "refreshing": "Daten werden aktualisiert...",
+    "api_error": "Kréta API Fehler",
+    "@_HOME_GRADES": {},
+    "subjects": "Fächer",
+    "your_subjects": "Deine Fächer",
+    "data": "Daten",
+    "subject_avg": "Fachdurchschnitt",
+    "class_avg": "Klassendurchschnitt",
+    "class_n": "Wöchentliche Stunden",
+    "@_WEAR": {},
+    "breakTxt": "Pause",
+    "timeLeft": "{mins} Minuten übrig",
+    "@timeLeft": {
+        "placeholders": {
+            "mins": {
+                "type": "num"
+            }
+        }
+    },
+    "noClasses": "Heute ist keine Schule, ruh dich aus!",
+    "noMoreClasses": "Du hast heute keinen Unterricht mehr",
+    "firstIn": "Deine erste Stunde: {t}",
+    "@firstIn": {
+        "placeholders": {
+            "t": {
+                "type": "String"
+            }
+        }
+    },
+    "wearTitle": "{n}. Stunde",
+    "@wearTitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
+    }
 }
