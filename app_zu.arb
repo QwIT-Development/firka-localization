@@ -39,7 +39,7 @@
             }
         }
     },
-    "n_left_subtitle": "Tarts ki, már csak {n} óra!",
+    "n_left_subtitle": "Hang on, only {n}",
     "@n_left_subtitle": {
         "placeholders": {
             "n": {
