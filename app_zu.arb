@@ -97,6 +97,8 @@
     "class_dismissed": "Elmaradt óra",
     "class_substitution": "Helyettesítés",
     "lesson_subject": "Az óra tárgya",
+    "a_week": "A hét",
+    "b_week": "B hét",
     "@_WEAR": {},
     "breakTxt": "Restin",
     "timeLeft": "Still gotz {mins} minitz",
