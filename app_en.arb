@@ -29,6 +29,10 @@
     "reauth": "Reauthentication required",
     "api_error": "Kréta API error",
     "@_HOME_MAIN": {},
+    "pairing": "Óra párosítása",
+    "pairing_description": "Szeretnéd ezt az órát párosítani a Firka appal?\nPárosítás láthatod az órarendet, és a legújabb jegyeidet, számonkéréseidet, és a feladataidat.",
+    "cancel": "Mégse",
+    "pair": "Párosítás",
     "@_WELCOME": {},
     "good_morning": "Good morning, {p}!",
     "@good_morning": {
@@ -103,34 +107,6 @@
     "lesson_subject": "Az óra tárgya",
     "a_week": "A week",
     "b_week": "B week",
-    "@_WEAR": {},
-    "breakTxt": "Break",
-    "timeLeft": "{mins, plural, =1{1 min left} other{{mins} mins left}}",
-    "@timeLeft": {
-        "placeholders": {
-            "mins": {
-                "type": "num"
-            }
-        }
-    },
-    "noClasses": "School's out today, take it easy!",
-    "noMoreClasses": "No more classes for you today",
-    "firstIn": "First class in: {t}",
-    "@firstIn": {
-        "placeholders": {
-            "t": {
-                "type": "String"
-            }
-        }
-    },
-    "wearTitle": "{n}. class",
-    "@wearTitle": {
-        "placeholders": {
-            "n": {
-                "type": "num"
-            }
-        }
-    },
     "@_SETTINGS": {},
     "s_settings": "Settings",
     "s_a": "Application",
@@ -198,5 +174,39 @@
     "ic_void_icon": "Semmi",
     "ic_xmas1": "Rosszak listája",
     "ic_xmas2": "Ajándék",
-    "ic_xmas3": "reKarácsony"
+    "ic_xmas3": "reKarácsony",
+    "@_WEAR": {},
+    "@_WEAR_LOGIN": {},
+    "wear_phone_unpaired": "Az órád nincs párosítva a telefonoddal!",
+    "wear_phone_disconnected": "Az órád nincs csatlakoztatva a telefonoddal!",
+    "wear_pairing_request_sent": "Párosítás folyamatban, nyisd meg az appot a telefonodon",
+    "wear_pairing_check_phone": "Folytasd a párosítást a telefonodon",
+    "wear_try_again": "Újra",
+    "breakTxt": "Break",
+    "timeLeft": "{mins, plural, =1{1 min left} other{{mins} mins left}}",
+    "@timeLeft": {
+        "placeholders": {
+            "mins": {
+                "type": "num"
+            }
+        }
+    },
+    "noClasses": "School's out today, take it easy!",
+    "noMoreClasses": "No more classes for you today",
+    "firstIn": "First class in: {t}",
+    "@firstIn": {
+        "placeholders": {
+            "t": {
+                "type": "String"
+            }
+        }
+    },
+    "wearTitle": "{n}. class",
+    "@wearTitle": {
+        "placeholders": {
+            "n": {
+                "type": "num"
+            }
+        }
+    }
 }
