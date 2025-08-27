@@ -1,7 +1,7 @@
 {
     "@_GLOBAL": {},
-    "restart_title": "Alkalmazás újraindítása",
-    "restart_body": "Kattints ide az alkalmazás megnytásához.",
+    "restart_title": "Restart application",
+    "restart_body": "Click here to open the app again.",
     "@_LOGIN": {},
     "loginBtn": "Login with E-Kréta",
     "privacyLabel": "Privacy policy",
@@ -18,19 +18,19 @@
     "today": "Today",
     "tomorrow": "Tomorrow",
     "@_EXTRAS": {},
-    "debug_screen": "Fejlesztői menü",
-    "settings_screen": "Beállítások",
+    "debug_screen": "Developer options",
+    "settings_screen": "Settings",
     "@_HOME": {},
     "home": "Home",
     "grades": "Grades",
     "timetable": "Timetable",
     "other": "Other",
     "refreshing": "Fetching data...",
-    "reauth": "Bejelentkezés szükséges",
+    "reauth": "Reauthentication required",
     "api_error": "Kréta API error",
     "@_HOME_MAIN": {},
     "@_WELCOME": {},
-    "good_morning": "Jó reggelt, {p}!",
+    "good_morning": "Good morning, {p}!",
     "@good_morning": {
         "placeholders": {
             "p": {
@@ -38,7 +38,7 @@
             }
         }
     },
-    "good_day": "Szép napot, {p}!",
+    "good_day": "Good day, {p}!",
     "@good_day": {
         "placeholders": {
             "p": {
@@ -46,7 +46,7 @@
             }
         }
     },
-    "n_left_subtitle": "Tarts ki, már csak {n} óra!",
+    "n_left_subtitle": "Hang in there, there's only {n} lessons left!",
     "@n_left_subtitle": {
         "placeholders": {
             "n": {
@@ -54,8 +54,8 @@
             }
         }
     },
-    "suffering_almost_over_subtitle": "Mindjárt szabad vagy. Figyelj oda a tanárra.",
-    "school_ending": "Izgulsz, {p}?",
+    "suffering_almost_over_subtitle": "You're almost free. Keep pay attention to your teacher.",
+    "school_ending": "Are you anxious, {p}?",
     "@school_ending": {
         "placeholders": {
             "p": {
@@ -64,7 +64,7 @@
         }
     },
     "tomorrow_subtitle": "Itt a holnapi napod.",
-    "good_afternoon": "Szép délutánt, {p}!",
+    "good_afternoon": "Good afternoon, {p}!",
     "@good_afternoon": {
         "placeholders": {
             "p": {
@@ -72,7 +72,7 @@
             }
         }
     },
-    "good_night": "Szép estét, {p}!",
+    "good_night": "Good evening, {p}!",
     "@good_night": {
         "placeholders": {
             "p": {
@@ -81,7 +81,7 @@
         }
     },
     "@_STARTING_SOON": {},
-    "starting_soon": "Hamarosan kezdődik az első órád!",
+    "starting_soon": "Your first lesson will start soon!",
     "starting_hour": "óra",
     "starting_hour_plural": "óra",
     "starting_min": "perc",
@@ -143,53 +143,53 @@
     "s_ag_r4": "4 → 5",
     "s_ag_class_avg_on_graph": "Osztályátlag a grafikonon",
     "s_ag_navbar": "Navigációs sáv",
-    "s_ag_left_handed_mode": "Balkezes mód",
+    "s_ag_left_handed_mode": "Left-handed mode",
     "s_ag_language_header": "Language",
     "s_ag_language_auto": "Automatic",
     "s_ag_language_hu": "Hungarian",
     "s_ag_language_en": "English",
     "s_ag_language_de": "German",
-    "s_c": "Személyre szabás",
+    "s_c": "Customization",
     "s_c_icon_header": "App ikonok",
     "s_c_replace_icon": "Ikon cseréje",
     "s_ci_icon_header": "App ikon",
-    "s_ci_warning_header": "[!] Debug módban nem fog működni az ikon megváltoztatása",
+    "s_ci_warning_header": "[!] Changing the app's icon in debug mode won't work",
     "s_ci_icon_subtitle": "Válassz egy csodaszép app ikont, ha már unod a zöldet.",
     "s_ci_icon_g1": "Alap ikon",
     "s_ci_icon_g2": "Újragondolt",
-    "s_ci_icon_g3": "reFerencia",
-    "s_ci_icon_g4": "Közösség",
+    "s_ci_icon_g3": "reFerence",
+    "s_ci_icon_g4": "Community",
     "s_ci_icon_g5": "Pride",
-    "s_ci_icon_g6": "Pride ",
-    "s_ci_child_protection": "Gyermekvédelem",
-    "ic_ace": "Aszexuáls",
-    "ic_ace_f": "Aszexuáls",
-    "ic_bi": "Biszexuáls",
-    "ic_bi_f": "Biszexuáls",
+    "s_ci_icon_g6": "Pride",
+    "s_ci_child_protection": "Child protection",
+    "ic_ace": "Asexual",
+    "ic_ace_f": "Asexual",
+    "ic_bi": "Bisexual",
+    "ic_bi_f": "Bisexual",
     "ic_cactus": "Kaktuszliget",
-    "ic_cc": "Kreatív Felhő",
-    "ic_enby": "Nembináris",
-    "ic_enby_f": "Nembináris",
-    "ic_fidesz": "Narancs",
+    "ic_cc": "Creative Cloud",
+    "ic_enby": "Non-binary",
+    "ic_enby_f": "Non-binary",
+    "ic_fidesz": "Fidesz",
     "ic_filc": "Nosztalgia",
     "ic_filco": "Filc . O",
-    "ic_galaxy": "Galaxis",
-    "ic_gay": "Meleg",
-    "ic_gay_f": "Meleg",
-    "ic_kreta": "eFIRKA",
-    "ic_lesb": "Leszbikus",
-    "ic_lesb_f": "Leszbikus",
-    "ic_lgbtq": "LMGBTQ+",
-    "ic_lgbtq_f": "LMGBTQ+",
+    "ic_galaxy": "Galaxy",
+    "ic_gay": "Gay",
+    "ic_gay_f": "Gay",
+    "ic_kreta": "eFirka",
+    "ic_lesb": "Lesbian",
+    "ic_lesb_f": "Lesbian",
+    "ic_lgbtq": "LGBTQ+",
+    "ic_lgbtq_f": "LGBTQ+",
     "ic_lgbtqp": "Progresszió",
     "ic_lgbtqp_f": "Progresszió",
-    "ic_mkkp": "Ingyen jegyek",
+    "ic_mkkp": "MKKP",
     "ic_modern": "Modern",
-    "ic_o1g": "O1G",
+    "ic_o1g": "Orbán is a cunt",
     "ic_original": "Az eredeti",
-    "ic_paper": "Papír",
+    "ic_paper": "Paper",
     "ic_pixel": "Pixel",
-    "ic_pixelized": "Pixelizált",
+    "ic_pixelized": "Pixelified",
     "ic_refilc": "reFilc",
     "ic_refulc": "reful’c",
     "ic_repont": "Ötven forint",
