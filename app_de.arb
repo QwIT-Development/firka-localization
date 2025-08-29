@@ -101,6 +101,7 @@
     "your_subjects": "Deine Fächer",
     "data": "Daten",
     "subject_avg": "Fachdurchschnitt",
+    "subject_avg_rounded": "Tantárgyi átlag kerekítés után",
     "class_avg": "Klassendurchschnitt",
     "class_n": "Wöchentliche Stunden",
     "@_HOME_TIMETABLE": {},
