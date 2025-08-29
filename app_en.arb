@@ -101,6 +101,7 @@
     "your_subjects": "Subjects",
     "data": "Info",
     "subject_avg": "Tantárgyi átlag",
+    "subject_avg_rounded": "Tantárgyi átlag kerekítés után",
     "class_avg": "Osztályátlag",
     "class_n": "Heti óraszám",
     "@_HOME_TIMETABLE": {},
