@@ -200,6 +200,7 @@
     "wear_pairing_check_phone": "Folytasd a párosítást a telefonodon",
     "wear_try_again": "Újra",
     "breakTxt": "Pause",
+    "empty_class": "Lyukasóra",
     "timeLeft": "{mins} Minuten übrig",
     "@timeLeft": {
         "placeholders": {
