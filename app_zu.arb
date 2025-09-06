@@ -1,11 +1,11 @@
 {
     "@_GLOBAL": {},
-    "restart_title": "Alkalmazás újraindítása",
-    "restart_body": "Kattints ide az alkalmazás megnytásához.",
+    "restart_title": "restart k?",
+    "restart_body": "clIK TO OPin teh app k?",
     "@_LOGIN": {},
     "loginBtn": "Log in wif E-Kréta akkownt",
     "privacyLabel": "Privacee infurrmashun",
-    "title1": "Egy pillantásra tudhatsz mindent",
+    "title1": "no everyfin at glEns",
     "subtitle1": "A főoldal tetjén hasznos információkat láthatsz a napodról.",
     "title2": "A tantárgyaid kényelmesen elférnek itt",
     "subtitle2": "Láss statisztikákat, közelgő számonkéréseket, és akár a régebbi tanéves jegyeidet is.",
@@ -19,26 +19,26 @@
     "tomorrow": "Tomoro",
     "@_EXTRAS": {},
     "debug_screen": "Fejlesztői menü",
-    "settings_screen": "Beállítások",
+    "settings_screen": "Swetigs",
     "@_HOME": {},
     "home": "Home Payj",
     "grades": "Graydz",
     "timetable": "Tiemtaybl",
     "other": "Moar",
     "refreshing": "Updaytin dataz...",
-    "reauth": "Bejelentkezés szükséges",
-    "api_error": "Kréta API hiba",
+    "reauth": "LOGIN REkwiRD",
+    "api_error": "Apwi Ewror",
     "@_HOME_MAIN": {},
-    "pairing": "Óra párosítása",
+    "pairing": "pairin",
     "pairing_description": "Szeretnéd ezt az órát párosítani a Firka appal?\nPárosítás láthatod az órarendet, és a legújabb jegyeidet, számonkéréseidet, és a feladataidat.",
-    "cancel": "Mégse",
-    "save": "Mentés",
-    "okay": "Rendben",
-    "pair": "Párosítás",
+    "cancel": "Cnwel",
+    "save": "Sav",
+    "okay": "K",
+    "pair": "pwair",
     "beta_title": "Firka - Publikus béta",
     "beta_body": "Az alkalmazás fejlesztés alatt áll; egyes funkciók hibásan működhetnek, nem működnek, vagy még nem készültek el.",
     "@_WELCOME": {},
-    "good_morning": "Jó reggelt, {p}!",
+    "good_morning": "Gud mornin, {p}",
     "@good_morning": {
         "placeholders": {
             "p": {
@@ -46,7 +46,7 @@
             }
         }
     },
-    "good_day": "Szép napot, {p}!",
+    "good_day": "Gud dway, {p}",
     "@good_day": {
         "placeholders": {
             "p": {
@@ -63,7 +63,7 @@
         }
     },
     "suffering_almost_over_subtitle": "Mindjárt szabad vagy. Figyelj oda a tanárra.",
-    "school_ending": "Izgulsz, {p}?",
+    "school_ending": "U Worrid, {p}?",
     "@school_ending": {
         "placeholders": {
             "p": {
@@ -71,7 +71,7 @@
             }
         }
     },
-    "tomorrow_subtitle": "Itt a holnapi napod.",
+    "tomorrow_subtitle": "Herez ur newxt day.",
     "good_afternoon": "Szép délutánt, {p}!",
     "@good_afternoon": {
         "placeholders": {
@@ -90,7 +90,7 @@
     },
     "@_STARTING_SOON": {},
     "starting_soon": "Hamarosan kezdődik az első órád!",
-    "starting_hour": "óra",
+    "starting_hour": "Hour",
     "starting_hour_plural": "óra",
     "starting_min": "perc",
     "starting_min_plural": "perc",
