@@ -164,7 +164,7 @@
   "wear_pairing_check_phone": "Check your phone",
   "wear_try_again": "Try again",
   "breakTxt": "Break",
-  "empty_class": "empty class",
+  "empty_class": "An hour off",
   "timeLeft": "{mins, plural, =1{1 min left} other{{mins} mins left}}",
   "noClasses": "School's out today, take it easy!",
   "noMoreClasses": "No more classes for you today",
