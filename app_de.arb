@@ -1,7 +1,7 @@
 {
   "@@locale": "de-DE",
   "restart_title": "App neu starten",
-  "restart_body": "Kattints ide az alkalmazás megnytásához.",
+  "restart_body": "Klick hier um die Anwendung zu öffnen.",
   "loginBtn": "Login mit E-Kréta",
   "privacyLabel": "Datenschutzerklärung",
   "title1": "Du kannst alles auf einem Blick sehen",
