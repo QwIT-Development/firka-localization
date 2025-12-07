@@ -51,7 +51,7 @@
   "your_subjects": "Deine Fächer",
   "data": "Daten",
   "subject_avg": "Fachdurchschnitt",
-  "subject_avg_rounded": "Tantárgyi átlag kerekítés után",
+  "subject_avg_rounded": "Durchschnittliche Note nach Rundung",
   "class_avg": "Klassendurchschnitt",
   "class_n": "Wöchentliche Stunden",
   "tt_no_classes_l1": "Ezen a napon nincsenek óráid!",
