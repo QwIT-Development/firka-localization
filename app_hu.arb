@@ -112,6 +112,14 @@
             }
         }
     },
+    "lessons_tomorrow": "{lessons} órád lesz",
+    "@lessons_tomorrow": {
+        "placeholders": {
+            "lessons": {
+                "type": "String"
+            }
+        }
+    },
     "no_tests_tomorrow": "Holnap nincs dolgozatod",
     "get_ready": "Pihend ki magad, és készülj fel",
 
