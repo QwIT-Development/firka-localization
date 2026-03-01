@@ -155,6 +155,8 @@
     "s_ag_language_hu": "Hungarian",
     "s_ag_language_en": "English",
     "s_ag_language_de": "German",
+    "s_wear": "Wear OS",
+    "s_wear_os_support": "Wear OS support",
     "s_c": "Customization",
     "s_c_icon_header": "App icons",
     "s_c_replace_icon": "Replace icon",

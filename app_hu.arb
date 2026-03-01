@@ -215,6 +215,8 @@
     "s_ag_language_hu": "Magyar",
     "s_ag_language_en": "Angol",
     "s_ag_language_de": "Német",
+    "s_wear": "Wear OS",
+    "s_wear_os_support": "Wear OS támogatás",
 
     "s_c": "Személyre szabás",
     "s_c_icon_header": "App ikonok",
