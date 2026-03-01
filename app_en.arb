@@ -100,6 +100,14 @@
     "subjects": "Subjects",
     "your_subjects": "Subjects",
     "data": "Info",
+    "gradesCount": "{count} grades",
+    "@gradesCount": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "subject_avg": "Subject average",
     "subject_avg_rounded": "Subject average after rounding",
     "class_avg": "Class average",

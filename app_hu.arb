@@ -141,6 +141,14 @@
     "subjects": "Tantárgyak",
     "your_subjects": "Tantárgyaid",
     "data": "Adatok",
+    "gradesCount": "{count} jegy",
+    "@gradesCount": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
     "subject_avg": "Tantárgyi átlag",
     "subject_avg_rounded": "Tantárgyi átlag kerekítés után",
     "class_avg": "Osztályátlag",
