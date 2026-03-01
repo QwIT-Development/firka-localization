@@ -217,7 +217,8 @@
     "s_ag_language_de": "Német",
     "s_wear": "Wear OS",
     "s_wear_os_support": "Wear OS támogatás",
-
+    "wearSyncNotificationTitle": "Szinkronizálás az órával",
+    "wearSyncNotificationText": "Óra adatainak szinkronban tartása",
     "s_c": "Személyre szabás",
     "s_c_icon_header": "App ikonok",
     "s_c_replace_icon": "Ikon cseréje",

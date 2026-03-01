@@ -88,6 +88,14 @@
             }
         }
     },
+    "happy_birthday": "Happy birthday, {p}!",
+    "@happy_birthday": {
+        "placeholders": {
+            "p": {
+                "type": "String"
+            }
+        }
+    },
     "@_STARTING_SOON": {},
     "starting_soon": "Your first lesson will start soon!",
     "starting_hour": "hour",
@@ -96,6 +104,28 @@
     "starting_min_plural": "mins",
     "starting_sec": "sec",
     "starting_sec_plural": "secs",
+    "tests_tomorrow": "You have {tests} test(s) tomorrow",
+    "@tests_tomorrow": {
+        "placeholders": {
+            "tests": {
+                "type": "String"
+            }
+        }
+    },
+    "lessons_tomorrow": "You have {lessons} lesson(s) tomorrow",
+    "@lessons_tomorrow": {
+        "placeholders": {
+            "lessons": {
+                "type": "String"
+            }
+        }
+    },
+    "no_tests_tomorrow": "No tests tomorrow",
+    "get_ready": "Rest up and get ready",
+    "@_HOMEWORK": {},
+    "homework": "Homework",
+    "mark_as_done": "Mark as done",
+    "mark_as_not_done": "Mark as not done",
     "@_HOME_GRADES": {},
     "subjects": "Subjects",
     "your_subjects": "Subjects",
@@ -112,17 +142,26 @@
     "subject_avg_rounded": "Subject average after rounding",
     "class_avg": "Class average",
     "class_n": "Weekly lesson number",
+    "grade_teacherName": "Teacher: ",
+    "grade_strValue": "Text grade: ",
+    "no_grades": "No grades in this subject yet.",
+    "unknown_teacher": "Unknown teacher",
     "@_HOME_TIMETABLE": {},
     "tt_no_classes_l1": "You don't have any lessons this week!",
     "tt_no_classes_l2": "Yippee!",
     "class_dismissed": "Dismissed lesson",
     "class_substitution": "Substitution",
     "lesson_subject": "Lesson subject",
+    "tt_added": "Added: ",
+    "view_subject_btn": "View subject",
+    "view_lesson_btn": "View lesson",
     "@_HOME_TIMETABLE_TOAST": {},
     "tt_settings_toast": "Timetable settings",
     "tt_settings_toast_lesson_nos": "Number of lessons",
     "tt_settings_toast_lesson_tests": "Tests & others",
     "tt_settings_toast_lesson_breaks": "Breaks",
+    "tt_settings_toast_lesson_substitution": "Substitutions",
+    "tt_settings_toast_lesson_ab_timetable": "Two-week timetable",
     "a_week": "A week",
     "b_week": "B week",
     "@_STATS_FOR_NERDS": {},
@@ -157,6 +196,8 @@
     "s_ag_language_de": "German",
     "s_wear": "Wear OS",
     "s_wear_os_support": "Wear OS support",
+    "wearSyncNotificationTitle": "Syncing with watch",
+    "wearSyncNotificationText": "Keeping data in sync with your watch",
     "s_c": "Customization",
     "s_c_icon_header": "App icons",
     "s_c_replace_icon": "Replace icon",
@@ -177,6 +218,13 @@
     "s_c_theme_light": "Light",
     "s_c_theme_dark": "Dark",
     "s_ci_child_protection": "Child protection",
+    "s_your_account": "Your account",
+    "s_acc_kreta": "e-Kréta accounts",
+    "s_acc_add": "Add account",
+    "s_acc_logout": "Log out",
+    "close": "Close",
+    "licensesLabel": "Licenses",
+    "licenseDescription": "Licenses of external libraries used by the app",
     "ic_ace": "Asexual",
     "ic_ace_f": "Asexual",
     "ic_bi": "Bisexual",
