@@ -290,6 +290,7 @@
     },
     "noClasses": "School's out today, take it easy!",
     "noMoreClasses": "No more classes for you today",
+    "wear_sync_with_phone": "Open phone app to sync",
     "firstIn": "First class in: {t}",
     "@firstIn": {
         "placeholders": {

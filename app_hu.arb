@@ -320,6 +320,7 @@
     },
     "noClasses": "Nincs ma iskola, pihend ki magad!",
     "noMoreClasses": "Nincs több órád ma",
+    "wear_sync_with_phone": "Nyisd meg a telefonos appot a szinkronizáláshoz",
     "firstIn": "Első órád: {t}",
     "@firstIn": {
         "placeholders": {
