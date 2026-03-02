@@ -139,6 +139,8 @@
 
     "@_HOME_GRADES": {},
     "subjects": "Tantárgyak",
+    "subject": "Tantárgy",
+    "grade_calculator": "Jegy kalkulátor",
     "your_subjects": "Tantárgyaid",
     "data": "Adatok",
     "gradesCount": "{count} jegy",
