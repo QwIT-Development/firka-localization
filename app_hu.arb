@@ -142,6 +142,7 @@
     "subject": "Tantárgy",
     "grade_calculator": "Jegy kalkulátor",
     "grade_calculator_add": "Hozzáadás",
+    "ghost_grade": "Szellem jegy",
     "your_subjects": "Tantárgyaid",
     "data": "Adatok",
     "gradesCount": "{count} jegy",
