@@ -130,6 +130,7 @@
     "subjects": "Subjects",
     "subject": "Subject",
     "grade_calculator": "Grade calculator",
+    "grade_calculator_add": "Add",
     "your_subjects": "Subjects",
     "data": "Info",
     "gradesCount": "{count} grades",

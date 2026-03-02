@@ -141,6 +141,7 @@
     "subjects": "Tantárgyak",
     "subject": "Tantárgy",
     "grade_calculator": "Jegy kalkulátor",
+    "grade_calculator_add": "Hozzáadás",
     "your_subjects": "Tantárgyaid",
     "data": "Adatok",
     "gradesCount": "{count} jegy",
