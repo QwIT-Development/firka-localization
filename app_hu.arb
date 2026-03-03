@@ -6,6 +6,7 @@
     "@_LOGIN": {},
     "loginBtn": "Bejelentkezés E-Kréta fiókkal",
     "privacyLabel": "Adatvédelmi tájékoztató",
+    "runningInDomainBrowser": "Doméjn böngésző",
 
     "title1": "Egy pillantásra tudhatsz mindent",
     "subtitle1": "A főoldal tetején hasznos információkat láthatsz a napodról.",
