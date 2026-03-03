@@ -133,6 +133,7 @@
     "grade_calculator": "Grade calculator",
     "grade_calculator_add": "Add",
     "ghost_grade": "Ghost grade",
+    "ghost_grades": "Ghost grades",
     "your_subjects": "Subjects",
     "data": "Info",
     "gradesCount": "{count} grades",

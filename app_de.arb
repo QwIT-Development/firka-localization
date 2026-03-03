@@ -99,6 +99,8 @@
     "starting_sec_plural": "másodperc",
     "@_HOME_GRADES": {},
     "subjects": "Fächer",
+    "ghost_grade": "Geisterbewertung",
+    "ghost_grades": "Geisterbewertungen",
     "your_subjects": "Deine Fächer",
     "data": "Daten",
     "subject_avg": "Fachdurchschnitt",
