@@ -24,6 +24,8 @@
     "@_HOME": {},
     "home": "Startseite",
     "grades": "Noten",
+    "ghost_grade": "Geisternote",
+    "ghost_grades": "Geisternoten",
     "timetable": "Stundenplan",
     "other": "Andere",
     "refreshing": "Daten werden aktualisiert...",
