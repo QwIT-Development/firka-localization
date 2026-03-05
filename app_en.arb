@@ -146,6 +146,7 @@
     },
     "subject_avg": "Subject average",
     "subject_avg_rounded": "Subject average after rounding",
+    "overall_avg": "Overall average",
     "class_avg": "Class average",
     "overall_avg": "Overall average",
     "class_n": "Weekly lesson number",
