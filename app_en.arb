@@ -147,6 +147,7 @@
     "subject_avg": "Subject average",
     "subject_avg_rounded": "Subject average after rounding",
     "class_avg": "Class average",
+    "overall_avg": "Overall average",
     "class_n": "Weekly lesson number",
     "grade_teacherName": "Teacher: ",
     "grade_strValue": "Text grade: ",

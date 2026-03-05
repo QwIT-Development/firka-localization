@@ -158,6 +158,7 @@
     "subject_avg": "Tantárgyi átlag",
     "subject_avg_rounded": "Tantárgyi átlag kerekítés után",
     "class_avg": "Osztályátlag",
+    "overall_avg": "Összesített átlag",
     "class_n": "Heti óraszám",
     "grade_teacherName": "Tanár neve: ",
     "grade_strValue":"Szöveges értékelés: ",
